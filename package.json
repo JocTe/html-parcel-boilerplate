@@ -1,0 +1,12 @@
+{
+  "name": "my-project",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "posthtml-include": "^1.6.2",
+    "sass": "^1.32.8"
+  }
+}

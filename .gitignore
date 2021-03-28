@@ -1,0 +1,23 @@
+
+/node_modules
+
+# Ignore all parcel compiled file
+/.cache
+/dist
+
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+
+# Ignore .env file containing credentials.
+.env*
+
+# Ignore Mac and Linux file system files
+*.swp
+.DS_Store
+.env*
+.env*

@@ -1,0 +1,11 @@
+// Graphical variables
+@import "./scss/config/fonts";
+@import "./scss/config/colors";
+@import "./scss/config/variables";
+
+// // External libraries
+// @import "font-awesome";
+
+// Your CSS partials
+@import "./scss/components/index";
+@import "./scss/pages/index";
